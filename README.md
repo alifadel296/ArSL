@@ -106,4 +106,4 @@ This project uses the [KArSL: Arabic Sign Language Database](https://dl.acm.org/
 - Implement an EffecientNet model on joints to improve model performance in signer-independent training.
 
 ## About this project 
-- This project is the practical application of theoretical information that I studied during my program in [DeepTorch](https://deep-torch.github.io/) Level 1.
+- This project is part of the [DeepTorch](https://deep-torch.github.io/) Level 1 mentorship program, where I applied the theoretical knowledge learned in the earlier stages of the program to implement AI models.
